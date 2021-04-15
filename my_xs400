@@ -1,2 +1,9 @@
-main  142.5
-pilot 42.5
+carbs:
+    Mikuni_bs34:
+                - main  142.5
+                - pilot 42.5
+
+oil:
+  Engine:
+      - Valvoline Motorcycle Engine Oil 4 Stroke 10W-40
+  forks:
